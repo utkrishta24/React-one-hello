@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-one-hello/static/css/main.7536d87d.css",
+    "main.js": "/React-one-hello/static/js/main.e5f8fc0f.js",
+    "index.html": "/React-one-hello/index.html",
+    "main.7536d87d.css.map": "/React-one-hello/static/css/main.7536d87d.css.map",
+    "main.e5f8fc0f.js.map": "/React-one-hello/static/js/main.e5f8fc0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7536d87d.css",
+    "static/js/main.e5f8fc0f.js"
+  ]
+}
